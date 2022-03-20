@@ -1,3 +1,5 @@
+# Application to studying Clean Architecture concepts using Node JS and Typescript
+
 ## Applications functionalities
 
 - Sign up users
